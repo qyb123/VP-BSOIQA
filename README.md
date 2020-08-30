@@ -48,7 +48,6 @@ The algorithm is described in:
 Y. Qi, G. Jiang, M. Yu, Y. Zhang, and Y.-S. Ho,"Viewport Perception based Blind Stereoscopic Omnidirectional Image Quality Assessment", 
 IEEE Transactions on Circuits and Systems for Video Technology, in review.
 
-
 You can change this program as you like and use it anywhere, but please
 refer to its original source (cite our paper and our web page at
 https://codeload.github.com/qyb123/VP-BSOIQA/zip/master).
@@ -66,7 +65,6 @@ Usage:
 
 1. Run demo.m
 
-
 2. Dependencies: 
 
 Subfunction files:  provided with release in the "util" file.
@@ -76,7 +74,6 @@ Image Files: d_img.png, s_img.png, ts_img.png
 Toolbox： tensor_toolbox
 
 ========================================================================
-
 Note on Image Files: 
 
 d_img.png: The distorted stereoscopic omnidirectional image
@@ -89,9 +86,8 @@ used to form the "s_img.png", and run the TensorImg.m to form the "ts_img.png".
 Ref: W. Wang, J. Shen, Y. Yu, and K. Ma, “Stereoscopic thumbnail creation
 via efficient stereo saliency detection,” IEEE Trans. Vis. Comput.
 Graph., vol. 23, no. 8, pp. 2014-2027, Aug. 2017.
-====================================================================
 
-
+========================================================================
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
 ``AS IS'' AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
 LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
