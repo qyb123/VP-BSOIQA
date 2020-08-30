@@ -86,7 +86,7 @@ ts_img.png: The calculated binocular combination saliency map
 Here, the saliency detection algorithm designed for stereoscopic images is
 used to form the "s_img.png", and run the TensorImg.m to form the "ts_img.png".
 
-Ref: W. Wang, J. Shen, Y. Yu, and K. Ma, “Stereoscopic thumbnail creation
+Reference: W. Wang, J. Shen, Y. Yu, and K. Ma, “Stereoscopic thumbnail creation
 via efficient stereo saliency detection,” IEEE Trans. Vis. Comput.
 Graph., vol. 23, no. 8, pp. 2014-2027, Aug. 2017.
 ====================================================================
