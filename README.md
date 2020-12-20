@@ -18,7 +18,7 @@ is to be cited in the bibliography as:
 URL: https://codeload.github.com/qyb123/VP-BSOIQA/zip/master, 2020
 
 2) Y. Qi, G. Jiang, M. Yu, Y. Zhang, and Y.-S. Ho,"Viewport Perception based Blind Stereoscopic Omnidirectional Image Quality Assessment", 
-IEEE Transactions on Circuits and Systems for Video Technology, in review.
+IEEE Transactions on Circuits and Systems for Video Technology, doi: 10.1109/TCSVT.2020.3043349.
 
 IN NO EVENT SHALL THE NINGBO UNIVERSITY BE LIABLE TO ANY PARTY FOR DIRECT, INDIRECT, SPECIAL, INCIDENTAL, 
 OR CONSEQUENTIAL DAMAGES ARISING OUT OF THE USE OF THIS DATABASE AND ITS DOCUMENTATION, EVEN IF THE NINGBO UNIVERSITY 
